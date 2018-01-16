@@ -18,7 +18,7 @@ The project was generated using the [maven] archetype generator:
 mvn archetype:generate -U -B \
   -DarchetypeGroupId=io.airlift \
   -DarchetypeArtifactId=skeleton-server-archetype \
-  -DarchetypeVersion=0.161 \
+  -DarchetypeVersion=0.95 \
   -DgroupId=mygroup \
   -DartifactId=myapp \
   -Dpackage=com.name.app
