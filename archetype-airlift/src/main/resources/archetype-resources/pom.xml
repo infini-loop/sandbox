@@ -13,7 +13,7 @@
 
     <properties>
         <air.main.basedir>${project.parent.basedir}</air.main.basedir>
-        <main-class>${groupId}.${artifactId}.Main</main-class>
+        <main-class>${package}.Main</main-class>
     </properties>
 
     <version>${version}</version>
